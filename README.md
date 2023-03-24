@@ -15,5 +15,5 @@ This paper has been write by Sameer A. Nene and Shree K. Nayar is available [her
 
 ## Info
 knn_env python version: 3.10 (virtual environment not shared in sources).<br>
-Source code is in models_code folder.<br>
-Research paper and other documents are inside the "paper" folder.
+Source code is in **models_code** folder.<br>
+Research paper and presentation are inside the **documents** folder.
