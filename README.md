@@ -4,7 +4,7 @@ Hand sign recognition using a specific nearest neighbors algorithm for high dime
 # Why this project ?
 I did this project during my first semester at **SFSU**. It is my term project of Big Data class.<br>
 I worked on it during 2 month and the goal was to read, understand and implement a research paper.<br>
-This paper has been write by Sameer A. Nene and Shree K. Nayar is available [here](https://cave.cs.columbia.edu/old/publications/pdfs/Nene_PAMI97.pdf "A Simple Algorithm for Nearest Neighbor Search in High Dimensions").
+The paper I worked on has been write by Sameer A. Nene and Shree K. Nayar is available [here](https://cave.cs.columbia.edu/old/publications/pdfs/Nene_PAMI97.pdf "A Simple Algorithm for Nearest Neighbor Search in High Dimensions").
 
 # How to run
 1. Download the code
