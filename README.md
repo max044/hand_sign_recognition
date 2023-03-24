@@ -1,16 +1,19 @@
 # hand_sign_recognition
 Hand sign recognition using a specific nearest neighbors algorithm for high dimensionalities.
 
+# Why this project ?
+I did this project during my first semester at **SFSU**. It is my term project of Big Data class.<br>
+I worked on it during 2 month and the goal was to read, understand and implement a research paper.<br>
+This paper has been write by Sameer A. Nene and Shree K. Nayar is available [here](https://cave.cs.columbia.edu/old/publications/pdfs/Nene_PAMI97.pdf "A Simple Algorithm for Nearest Neighbor Search in High Dimensions").
+
 # How to run
-To run this program, you have to download Jupyter Notebook, install pythons packages if you don’t have them and run all cells.
+1. Download the code
+2. Download the [data](https://www.kaggle.com/datasets/datamunge/sign-language-mnist "mnist dataset")
+3. Combine train and test csv on a single file (34628 lines)
+4. Create env and install the requirements
+5. open "process_fnn.ipynb" and run cells
 
-links:
-https://jupyter.org
-https://pypi.org/project/pip/
-
-knn_env python version: 3.10 (virtual environment not shared in sources)
-
-see requirements.txt for packages versions.
-
-Source code is in models_code folder.
+## Info
+knn_env python version: 3.10 (virtual environment not shared in sources).<br>
+Source code is in models_code folder.<br>
 Research paper and other documents are inside the "paper" folder.
