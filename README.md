@@ -14,7 +14,7 @@ The paper I worked on has been write by Sameer A. Nene and Shree K. Nayar is ava
     <li>Concat train and test csv on a single file (34628 lines)</li>
   </ol>
   <li> Or you can download full dataset directly from <a href="https://drive.google.com/file/d/1CC84O7caoeCVOUCeaXTMjs2r-iuw7jax/view?usp=share_link">here</a></li>
-  <li>Add the dataset in "data" folder inside "models_code"</li>
+  <li>Add the dataset under "models_code/data/"</li>
   <li>Create env and install the requirements</li>
   <li>open "process_fnn.ipynb" and run cells</li>
 </ol>
